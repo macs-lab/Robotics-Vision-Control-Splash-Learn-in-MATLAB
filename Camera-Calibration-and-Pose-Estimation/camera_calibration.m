@@ -1,3 +1,8 @@
+% UW Mechanical Engineering
+% Robotics, Visiton, and Mechatronics for Manufacturing, Sp 2021
+% HW3 / Lab2
+% Matlab toolbox required: computer vision toolbox 
+% (https://www.mathworks.com/help/vision/index.html)
 %% load chessboard images
 images = imageSet(fullfile('calibration_images'));
 imageFileNames = images.ImageLocation;

@@ -1,3 +1,6 @@
+% UW Mechanical Engineering
+% Robotics, Visiton, and Mechatronics for Manufacturing, Sp 2021
+% HW3 / Lab2
 function [p_img] = cameraProjection(K,R,t,P_world)
 %CAMERAPROJECTION Project 3D world point to image plane given camera model.
 %   K: the 3x3 camera matrix
