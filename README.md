@@ -1,2 +1,3 @@
 # Robotics-Vision-and-Control-Splash-Learning-in-MATLAB
- Fundamental algorithms of robotics, visual sensing, and control.
+
+This repository hosts the code base for the course ME 599 E/F: Robotics, Vision, and Mechatronics for Manufacturing, at the University of Washington. The course covers fundamentals of robotic manipulation and computer vision, in tandem with focused discussions on vision-based planning and controls in a 3-dimensional space. Along the way, the course provides insights into how complex problems can be decomposed and solved using powerful numerical tools and effective software. Project-based assignments and demonstration enhance in-class learning. And occasional, student-lead presentations foster a mindset of predictive planning and technical communication.
