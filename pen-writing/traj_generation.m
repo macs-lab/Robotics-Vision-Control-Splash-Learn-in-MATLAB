@@ -25,9 +25,9 @@ K = robot.camera_matrix;
 param = cameraIntrinsics([K(1,1), K(2,2)], [K(1,3), K(2,3)], robot.img_size);
 
 %% create trajectory.
-% your code start from here.
+% your codes start from here.
 % you should create 'traj' variable that contains the moving trajectory.
-% 'traj' should defines the poses of TCP w.r.t the robot base.
+% 'traj' should define the poses of TCP w.r.t the robot base.
 % 'traj' should be of type 1xN SE3, where N is the number of waypoints in
 % your trajecotry.
 
